@@ -1,0 +1,15 @@
+{
+    "LaunchRequest": 
+    {
+        "ask":"Welcome to Stench Mob. What the fuck do you want?",
+        "reprompt": "Bitch I ain't got all day"
+    },
+    "AMAZON.HelpIntent":
+    {
+        "ask": "Here are some things you can say: Give me a random name. Hook me up with a random name."
+    },
+    "AMAZON.StopIntent":
+    {
+        "tell": "Bye bitch"
+    }
+}
